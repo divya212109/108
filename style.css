@@ -1,0 +1,33 @@
+body
+{
+  color: rgb(66, 84, 87);
+  background: #d8d8d8;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed rgb(255, 255, 255);
+  width: 350px;
+  height: 300px; 
+}
+#result_hand_name ,#result_hand_name2  
+{
+  color: rgb(70, 88, 89);
+}
+.hand_name
+{
+  font-size: 40px;
+}
+.hand
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
